@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"浏览足迹不支持.html",
-  "generationDate":new Date(1659752328231.58),
+  "generationDate":new Date(1659754426192.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页.html",
-  "generationDate":new Date(1659752327954.35),
+  "generationDate":new Date(1659754425868.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -73,8 +73,8 @@
               "x":850,
               "y":612},
             "size":{
-              "width":158,
-              "height":28}},
+              "width":337,
+              "height":56}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -89,8 +89,8 @@
                   "x":850,
                   "y":612},
                 "size":{
-                  "width":158,
-                  "height":28}},
+                  "width":337,
+                  "height":56}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -457,7 +457,187 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u24.jpg"}}]}},
+            "normal~":"images/主页/u24.jpg"}},
+{
+          "id":"a097abea527045ae8ebf1e3dc2215cbb",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":200,
+              "y":540},
+            "size":{
+              "width":550,
+              "height":490}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 文章",
+                      "target":{
+                        "targetType":"page",
+                        "url":"文章.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"8c4d777421a3476cb821464b0208bcad",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":240,
+              "y":1500},
+            "size":{
+              "width":500,
+              "height":110}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 企业介绍等",
+                      "target":{
+                        "targetType":"page",
+                        "url":"企业介绍等.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"4f4643aa4df741aab97a293e10cb7ad7",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":240,
+              "y":1360},
+            "size":{
+              "width":500,
+              "height":90}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 浏览所有产品",
+                      "target":{
+                        "targetType":"page",
+                        "url":"浏览所有产品.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"cf2e5a14142946b18b5308628554be9c",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":820,
+              "y":2420},
+            "size":{
+              "width":590,
+              "height":650}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 企业介绍等",
+                      "target":{
+                        "targetType":"page",
+                        "url":"企业介绍等.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"eb53aa1761904a19918b1946af9c55fa",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":820,
+              "y":3180},
+            "size":{
+              "width":580,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 浏览所有产品",
+                      "target":{
+                        "targetType":"page",
+                        "url":"浏览所有产品.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"891af6d864424bc0a7f0d6a10e38b32f",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":200,
+              "y":2500},
+            "size":{
+              "width":570,
+              "height":800}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 产品介绍",
+                      "target":{
+                        "targetType":"page",
+                        "url":"产品介绍.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
@@ -512,4 +692,16 @@
     "588fc34a1eb242f7995a603b8481a573":{
       "scriptId":"u24"},
     "ac8ec6dbb6de4eaaaea0b48feca94056":{
-      "scriptId":"u25"}}});
+      "scriptId":"u25"},
+    "a097abea527045ae8ebf1e3dc2215cbb":{
+      "scriptId":"u26"},
+    "8c4d777421a3476cb821464b0208bcad":{
+      "scriptId":"u27"},
+    "4f4643aa4df741aab97a293e10cb7ad7":{
+      "scriptId":"u28"},
+    "cf2e5a14142946b18b5308628554be9c":{
+      "scriptId":"u29"},
+    "eb53aa1761904a19918b1946af9c55fa":{
+      "scriptId":"u30"},
+    "891af6d864424bc0a7f0d6a10e38b32f":{
+      "scriptId":"u31"}}});

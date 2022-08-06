@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"微信二维码.html",
-  "generationDate":new Date(1659752328207.58),
+  "generationDate":new Date(1659754426144.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
