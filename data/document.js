@@ -43,7 +43,11 @@
 {
                 "pageName":"浏览所有产品",
                 "type":"Wireframe",
-                "url":"浏览所有产品.html"},
+                "url":"浏览所有产品.html",
+                "children":[{
+                    "pageName":"搜索",
+                    "type":"Wireframe",
+                    "url":"搜索.html"}]},
 {
                 "pageName":"产品介绍",
                 "type":"Wireframe",

@@ -1,12 +1,12 @@
 ﻿$axure.loadCurrentPage({
-  "url":"启动.html",
-  "generationDate":new Date(1659755611583.67),
+  "url":"搜索.html",
+  "generationDate":new Date(1659755611784.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"6978dcc3d3564766a315e9597e59353d",
+    "packageId":"8ffbc4c96a0f43d8b1c09ca91b84f0e8",
     "type":"Axure:Page",
-    "name":"启动",
+    "name":"搜索",
     "notes":{
 },
     "style":{
@@ -30,22 +30,22 @@
 },
     "diagram":{
       "objects":[{
-          "id":"ba56084809314febbf9d0305fe187430",
+          "id":"7e5b2346d083495a8b3b6c3368fdab5f",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
           "visible":true,
           "style":{
             "location":{
-              "x":169,
-              "y":35.9999694824219},
+              "x":59,
+              "y":10},
             "size":{
               "width":621,
-              "height":1104}},
+              "height":1170}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"8fdbd63a97ae4bb38cffd02107c1dfda",
+              "id":"702d627d9d114b07896698a347f74ece",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -53,32 +53,32 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":169,
-                  "y":35.9999694824219},
+                  "x":59,
+                  "y":10},
                 "size":{
                   "width":621,
-                  "height":1104}},
+                  "height":1170}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/启动/u0.jpg"}},
+            "normal~":"images/搜索/u0.jpg"}},
 {
-          "id":"aaef2e9580c3446da9fa3b81c76f6fd3",
+          "id":"f9f20f2cc8dd42dfa0ec7ad39ede596b",
           "label":"",
-          "type":"buttonShape",
-          "styleType":"h2",
+          "type":"imageBox",
+          "styleType":"imageBox",
           "visible":true,
           "style":{
             "location":{
-              "x":870,
-              "y":270},
+              "x":710,
+              "y":20},
             "size":{
-              "width":433,
-              "height":28}},
+              "width":621,
+              "height":1170}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"853ffd1398ab4864bc33f7b14cbd47d0",
+              "id":"3dfa516957d84c82b0fcdf144313880a",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -86,23 +86,23 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":870,
-                  "y":270},
+                  "x":710,
+                  "y":20},
                 "size":{
-                  "width":433,
-                  "height":28}},
+                  "width":621,
+                  "height":1170}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"images/搜索/u2.png"}}]}},
   "masters":{
 },
   "objectPaths":{
-    "ba56084809314febbf9d0305fe187430":{
+    "7e5b2346d083495a8b3b6c3368fdab5f":{
       "scriptId":"u0"},
-    "8fdbd63a97ae4bb38cffd02107c1dfda":{
+    "702d627d9d114b07896698a347f74ece":{
       "scriptId":"u1"},
-    "aaef2e9580c3446da9fa3b81c76f6fd3":{
+    "f9f20f2cc8dd42dfa0ec7ad39ede596b":{
       "scriptId":"u2"},
-    "853ffd1398ab4864bc33f7b14cbd47d0":{
+    "3dfa516957d84c82b0fcdf144313880a":{
       "scriptId":"u3"}}});
