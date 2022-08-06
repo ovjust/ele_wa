@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"技术服务商.html",
+  "generationDate":new Date(1659752328228.58),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"0288bec78e3f414abd9be3032af4128c",
+    "type":"Axure:Page",
+    "name":"技术服务商",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3171e7c65dbc4e1eaf19d0644bf37f77",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":160,
+              "y":9},
+            "size":{
+              "width":618,
+              "height":951}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"df1000a8202d4177baf1050ee3c9e48f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":160,
+                  "y":9},
+                "size":{
+                  "width":618,
+                  "height":951}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/技术服务商/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3171e7c65dbc4e1eaf19d0644bf37f77":{
+      "scriptId":"u0"},
+    "df1000a8202d4177baf1050ee3c9e48f":{
+      "scriptId":"u1"}}});

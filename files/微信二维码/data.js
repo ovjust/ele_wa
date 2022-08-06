@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"微信二维码.html",
+  "generationDate":new Date(1659752328207.58),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"7a07f4a682754b298ce593fdf4294917",
+    "type":"Axure:Page",
+    "name":"微信二维码",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"e1727ed851174566bc0f87381789fc1f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":170,
+              "y":-1.52587890625E-05},
+            "size":{
+              "width":621,
+              "height":1170}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"70dc483ba5304f3692c689fe1917c37c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":170,
+                  "y":-1.52587890625E-05},
+                "size":{
+                  "width":621,
+                  "height":1170}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/微信二维码/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "e1727ed851174566bc0f87381789fc1f":{
+      "scriptId":"u0"},
+    "70dc483ba5304f3692c689fe1917c37c":{
+      "scriptId":"u1"}}});

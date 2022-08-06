@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"转发.html",
+  "generationDate":new Date(1659752328062.81),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"efbd1049188142b9813e2a8d22d3c918",
+    "type":"Axure:Page",
+    "name":"转发",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"b97f005e2e734df88a481e284891ffd7",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":39,
+              "y":13},
+            "size":{
+              "width":1111,
+              "height":507}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5225555e9aad4f719d278e680296837c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":39,
+                  "y":13},
+                "size":{
+                  "width":1111,
+                  "height":507}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/转发/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "b97f005e2e734df88a481e284891ffd7":{
+      "scriptId":"u0"},
+    "5225555e9aad4f719d278e680296837c":{
+      "scriptId":"u1"}}});

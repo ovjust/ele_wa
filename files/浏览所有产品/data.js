@@ -1,0 +1,108 @@
+﻿$axure.loadCurrentPage({
+  "url":"浏览所有产品.html",
+  "generationDate":new Date(1659752328028.32),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"2004b63494e24ac784514a77ee6c8b0f",
+    "type":"Axure:Page",
+    "name":"浏览所有产品",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"48b9f0ee6e234d00aeb60f751a6e7da0",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":140,
+              "y":10.0000152587891},
+            "size":{
+              "width":621,
+              "height":1170}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"214eebabdeca411ca2f04147faec8210",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":140,
+                  "y":10.0000152587891},
+                "size":{
+                  "width":621,
+                  "height":1170}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/浏览所有产品/u0.jpg"}},
+{
+          "id":"05e1566acf7f47508385671b57885502",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":809,
+              "y":10},
+            "size":{
+              "width":621,
+              "height":1170}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"deafd8a6d7894c02975546f834195e71",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":809,
+                  "y":10},
+                "size":{
+                  "width":621,
+                  "height":1170}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/浏览所有产品/u2.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "48b9f0ee6e234d00aeb60f751a6e7da0":{
+      "scriptId":"u0"},
+    "214eebabdeca411ca2f04147faec8210":{
+      "scriptId":"u1"},
+    "05e1566acf7f47508385671b57885502":{
+      "scriptId":"u2"},
+    "deafd8a6d7894c02975546f834195e71":{
+      "scriptId":"u3"}}});

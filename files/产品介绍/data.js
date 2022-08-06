@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"产品介绍.html",
+  "generationDate":new Date(1659752328038.71),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"958baa4fe4ff4431b13b083b6c458fcb",
+    "type":"Axure:Page",
+    "name":"产品介绍",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"f45c4b0cdbd74639a49808c3484e1f28",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":150,
+              "y":9.99998474121094},
+            "size":{
+              "width":621,
+              "height":1170}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"34f8f4961e4843bab914093254803774",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":150,
+                  "y":9.99998474121094},
+                "size":{
+                  "width":621,
+                  "height":1170}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品介绍/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "f45c4b0cdbd74639a49808c3484e1f28":{
+      "scriptId":"u0"},
+    "34f8f4961e4843bab914093254803774":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"聊天.html",
+  "generationDate":new Date(1659752328134.3),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"2a507e32216a4077ae3797cd4ee862b0",
+    "type":"Axure:Page",
+    "name":"聊天",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"71e3cc20b26a4486b6ee85ed2194ead2",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":139,
+              "y":10},
+            "size":{
+              "width":621,
+              "height":1170}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a50071517e5849e5becb232140bbc60a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":139,
+                  "y":10},
+                "size":{
+                  "width":621,
+                  "height":1170}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/聊天/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "71e3cc20b26a4486b6ee85ed2194ead2":{
+      "scriptId":"u0"},
+    "a50071517e5849e5becb232140bbc60a":{
+      "scriptId":"u1"}}});

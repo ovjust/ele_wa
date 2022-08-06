@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"我咨询的.html",
+  "generationDate":new Date(1659752328215.09),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"5457577f5a9644bca3062a261f1da3b5",
+    "type":"Axure:Page",
+    "name":"我咨询的",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d31019196dbf4ecea50058be06ef8562",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":150,
+              "y":10},
+            "size":{
+              "width":621,
+              "height":1170}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a89c5736e5fd4dcba1dbdde3da6384f9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":150,
+                  "y":10},
+                "size":{
+                  "width":621,
+                  "height":1170}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我咨询的/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d31019196dbf4ecea50058be06ef8562":{
+      "scriptId":"u0"},
+    "a89c5736e5fd4dcba1dbdde3da6384f9":{
+      "scriptId":"u1"}}});
