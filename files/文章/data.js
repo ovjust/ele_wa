@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章.html",
-  "generationDate":new Date(1659754425924.87),
+  "generationDate":new Date(1659754909109.29),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -292,7 +292,37 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章/u14.jpg"}}]}},
+            "normal~":"images/文章/u14.jpg"}},
+{
+          "id":"81456bba20294b94a0436b10ce587c59",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1070,
+              "y":930},
+            "size":{
+              "width":300,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 业务咨询、客服列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"业务咨询、客服列表.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
@@ -327,4 +357,6 @@
     "2762d8d5f7b94b0f934d332bd516c346":{
       "scriptId":"u14"},
     "714d0cc82e2c4d0f8768905403319ef9":{
-      "scriptId":"u15"}}});
+      "scriptId":"u15"},
+    "81456bba20294b94a0436b10ce587c59":{
+      "scriptId":"u16"}}});

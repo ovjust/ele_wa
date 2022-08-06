@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"产品介绍.html",
-  "generationDate":new Date(1659754425983.64),
+  "generationDate":new Date(1659754909179.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,11 +61,144 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/产品介绍/u0.jpg"}}]}},
+            "normal~":"images/产品介绍/u0.jpg"}},
+{
+          "id":"3592a61e48444b788dd8cdf4e167ee4c",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":190,
+              "y":1090},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 主页",
+                      "target":{
+                        "targetType":"page",
+                        "url":"主页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"0d278597a95e4d15b6c7da0647143f5b",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":370,
+              "y":1090},
+            "size":{
+              "width":90,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 产品留言",
+                      "target":{
+                        "targetType":"page",
+                        "url":"产品留言.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"c164f221deaf4ecdbaf5459602a7c810",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":150,
+              "y":1200},
+            "size":{
+              "width":621,
+              "height":1170}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"26883d84a34841079e9ed0415f179a1d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":150,
+                  "y":1200},
+                "size":{
+                  "width":621,
+                  "height":1170}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品介绍/u4.jpg"}},
+{
+          "id":"e2b54d27a4ff40449205c834b7229bf0",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":510,
+              "y":1080},
+            "size":{
+              "width":240,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 业务咨询、客服列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"业务咨询、客服列表.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
     "f45c4b0cdbd74639a49808c3484e1f28":{
       "scriptId":"u0"},
     "34f8f4961e4843bab914093254803774":{
-      "scriptId":"u1"}}});
+      "scriptId":"u1"},
+    "3592a61e48444b788dd8cdf4e167ee4c":{
+      "scriptId":"u2"},
+    "0d278597a95e4d15b6c7da0647143f5b":{
+      "scriptId":"u3"},
+    "c164f221deaf4ecdbaf5459602a7c810":{
+      "scriptId":"u4"},
+    "26883d84a34841079e9ed0415f179a1d":{
+      "scriptId":"u5"},
+    "e2b54d27a4ff40449205c834b7229bf0":{
+      "scriptId":"u6"}}});
