@@ -29,6 +29,10 @@
                 "type":"Wireframe",
                 "url":"文章.html"},
 {
+                "pageName":"企业介绍等",
+                "type":"Wireframe",
+                "url":"企业介绍等.html"},
+{
                 "pageName":"产品留言",
                 "type":"Wireframe",
                 "url":"产品留言.html",
@@ -59,11 +63,7 @@
 {
                     "pageName":"转发成功",
                     "type":"Wireframe",
-                    "url":"转发成功.html"}]},
-{
-                "pageName":"企业介绍等",
-                "type":"Wireframe",
-                "url":"企业介绍等.html"}]},
+                    "url":"转发成功.html"}]}]},
 {
             "pageName":"消息",
             "type":"Wireframe",
