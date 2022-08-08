@@ -131,7 +131,11 @@
 {
                 "pageName":"浏览足迹不支持",
                 "type":"Wireframe",
-                "url":"浏览足迹不支持.html"}]}]}]},
+                "url":"浏览足迹不支持.html"}]},
+{
+            "pageName":"新需求",
+            "type":"Wireframe",
+            "url":"新需求.html"}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{
