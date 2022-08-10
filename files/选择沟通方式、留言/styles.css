@@ -443,3 +443,24 @@
   width:200px;
   word-wrap:break-word;
 }
+#u36 {
+  position:absolute;
+  left:280px;
+  top:508px;
+  width:449px;
+  height:38px;
+}
+#u36_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:449px;
+  height:38px;
+}
+#u37 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:449px;
+  white-space:nowrap;
+}
