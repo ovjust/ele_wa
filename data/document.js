@@ -135,7 +135,39 @@
 {
             "pageName":"新需求",
             "type":"Wireframe",
-            "url":"新需求.html"}]}]},
+            "url":"新需求.html",
+            "children":[{
+                "pageName":"查看基金净值",
+                "type":"Wireframe",
+                "url":"查看基金净值.html"},
+{
+                "pageName":"查看持仓",
+                "type":"Wireframe",
+                "url":"查看持仓.html"},
+{
+                "pageName":"后端查询用户风险测评结果",
+                "type":"Wireframe",
+                "url":"后端查询用户风险测评结果.html"},
+{
+                "pageName":"流程图",
+                "type":"Wireframe",
+                "url":"流程图.html"},
+{
+                "pageName":"验证手机号",
+                "type":"Wireframe",
+                "url":"验证手机号.html"},
+{
+                "pageName":"在线风险测评",
+                "type":"Wireframe",
+                "url":"在线风险测评.html"},
+{
+                "pageName":"选择沟通方式、留言",
+                "type":"Wireframe",
+                "url":"选择沟通方式、留言.html"},
+{
+                "pageName":"实名认证",
+                "type":"Wireframe",
+                "url":"实名认证.html"}]}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{
