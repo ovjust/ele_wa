@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我参加的活动.html",
-  "generationDate":new Date(1660118457461.85),
+  "generationDate":new Date(1660126800349.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

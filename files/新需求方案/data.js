@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新需求方案.html",
-  "generationDate":new Date(1660118457542.35),
+  "generationDate":new Date(1660126800453.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -180,7 +180,7 @@
               "x":701,
               "y":570},
             "size":{
-              "width":595,
+              "width":723,
               "height":76}},
           "adaptiveStyles":{
 },
@@ -196,7 +196,7 @@
                   "x":701,
                   "y":570},
                 "size":{
-                  "width":595,
+                  "width":723,
                   "height":76}},
               "adaptiveStyles":{
 }}],

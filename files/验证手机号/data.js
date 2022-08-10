@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"验证手机号.html",
-  "generationDate":new Date(1660118457794.87),
+  "generationDate":new Date(1660126800676.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -162,12 +162,14 @@
           "styleType":"h1",
           "visible":true,
           "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
             "location":{
               "x":110,
               "y":210},
             "size":{
-              "width":471,
-              "height":76}},
+              "width":745,
+              "height":114}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -178,12 +180,14 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
                 "location":{
                   "x":110,
                   "y":210},
                 "size":{
-                  "width":471,
-                  "height":76}},
+                  "width":745,
+                  "height":114}},
               "adaptiveStyles":{
 }}],
           "images":{

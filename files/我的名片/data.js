@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的名片.html",
-  "generationDate":new Date(1660118457342.85),
+  "generationDate":new Date(1660126800247.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
