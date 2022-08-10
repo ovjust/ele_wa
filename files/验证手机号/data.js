@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"验证手机号.html",
-  "generationDate":new Date(1660102157405.21),
+  "generationDate":new Date(1660103880810.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

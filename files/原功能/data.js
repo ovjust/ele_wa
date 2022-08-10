@@ -1,12 +1,12 @@
 ﻿$axure.loadCurrentPage({
-  "url":"浏览足迹不支持.html",
-  "generationDate":new Date(1660103880495.71),
+  "url":"原功能.html",
+  "generationDate":new Date(1660103879933.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"5ce3a331f2b84323aca056fa98ec9f3e",
+    "packageId":"eefbf493d6b04cb4ae1426177578aaaf",
     "type":"Axure:Page",
-    "name":"浏览足迹不支持",
+    "name":"原功能",
     "notes":{
 },
     "style":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"取消收藏.html",
-  "generationDate":new Date(1660102156618.42),
+  "generationDate":new Date(1660103880250.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

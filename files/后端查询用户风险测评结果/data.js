@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"后端查询用户风险测评结果.html",
-  "generationDate":new Date(1660102157356.29),
+  "generationDate":new Date(1660103880754.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

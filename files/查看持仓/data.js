@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看持仓.html",
-  "generationDate":new Date(1660102157325.45),
+  "generationDate":new Date(1660103880717.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
