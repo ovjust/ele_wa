@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:373px;
+  width:581px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -141,4 +141,25 @@
   font-weight:normal;
   font-style:normal;
   text-decoration:none;
+}
+#u8 {
+  position:absolute;
+  left:110px;
+  top:210px;
+  width:471px;
+  height:76px;
+}
+#u8_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:471px;
+  height:76px;
+}
+#u9 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:471px;
+  white-space:nowrap;
 }

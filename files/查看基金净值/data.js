@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看基金净值.html",
-  "generationDate":new Date(1660103880653.43),
+  "generationDate":new Date(1660118457612.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
